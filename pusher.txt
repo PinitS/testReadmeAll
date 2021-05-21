@@ -1,0 +1,5 @@
+https://medium.com/@dachawat.fang57/web-socket-%E0%B8%81%E0%B8%B1%E0%B8%9A-pusher-%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%83%E0%B8%8A%E0%B9%89-laravel-vue-js-392ea2e9a67c
+
+https://www.youtube.com/watch?v=l44IF9fBNOs
+
+npm install pusher-js

@@ -1,0 +1,22 @@
+npm npm install --save redux 
+react-redux 
+redux-logger 
+redux-saga 
+redux-devtools-extension 
+react-router-dom
+
+core ui template integate
+npm install --save @fortawesome/fontawesome-free
+npm install --save redux-saga
+npm install --save redux-logger
+npm install --save react-toastify
+npm install --save redux-devtools-extension
+npm install --save react-hook-form
+
+npm install --save redux-saga redux-logger react-toastify redux-devtools-extension @fortawesome/fontawesome-free react-hook-form
+
+
+
+npm uninstall --save @fortawesome/fontawesome-svg-core
+  npm uninstall --save @fortawesome/free-solid-svg-icons
+  npm uninstall --save @fortawesome/react-fontawesome

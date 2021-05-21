@@ -1,0 +1,9 @@
+sudo su
+cd / ออกมาข้างนอกก่อน
+ls = ดู
+เว็ปอยู่ที่ var/www/
+เคยอัพแล้ว git pull ได้
+
+แล้วก็migrate ใหม่
+
+https://blog.appsynth.net/%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B8%84%E0%B8%B8%E0%B8%A1-flow-%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%AD%E0%B8%9E-react-native-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-redux-saga-4a85cebb1773

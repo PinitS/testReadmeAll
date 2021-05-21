@@ -1,0 +1,37 @@
+            
+*****************************************
+jquery
+$(document).off('click', '.pnt-btn-edit').on('click', '.pnt-btn-edit', (e) => {});
+*****************************************
+
+***
+ajax
+
+**************************************************************
+$.ajax({
+         type: 'get',
+         url: '{!! url('manage/groupParts/getOneGroup') !!}',
+         success: function (data) {
+            				}
+});
+****
+
+$.each(data.branch, function (index, value) {
+	str += "<option value=" + value.id + "> <strong>" + value.name + "</strong></option>"
+});
+
+*****upload file*******
+**************************************************************
+***get file*****
+$file = $request->file('file');
+$filename = $file->hashName();
+****************
+****delete file*****
+use Illuminate\Support\Facades\File;
+
+File::delete('uploads/n1MtHeqbb0aOPIXOTkYuJlaZ2mGnOtsIBJ97u16F.jpeg');
+****************
+***move file to directory
+ $file->move('uploads', $filename);
+****************
+**************************************************************

@@ -1,0 +1,11 @@
+###find object one
+https://stackoverflow.com/questions/7364150/find-object-by-id-in-an-array-of-javascript-objects
+
+###find array one 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find
+
+###find object many
+https://stackoverflow.com/questions/54296910/generating-list-of-objects-using-filter-method-javascript
+
+#uqiue
+https://stackoverflow.com/questions/1960473/get-all-unique-values-in-a-javascript-array-remove-duplicates

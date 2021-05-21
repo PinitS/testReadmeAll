@@ -1,0 +1,9 @@
+in gitbash
+1. git clone https://github.com/dotsockets/reservation-go-room-api.git
+1. git clone https://github.com/zubroide/go-api-boilerplate.git
+2.  cd in project
+3. ./install/install.sh
+4. cp .env.template .env
+5. go mod download
+6. config .env
+6. go run main.go server --port=8080
